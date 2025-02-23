@@ -6,18 +6,6 @@ Este proyecto demuestro cómo crear un servidor y un cliente TCP utilizando Node
 ## ¿Qué es TCP?
 El **Protocolo de Control de Transmisión (TCP)** es un protocolo de comunicación confiable que permite la transferencia de datos entre dispositivos en una red. 
 
-## Arquitectura del Proyecto
-La estructura del proyecto es la siguiente:
-```
-ServidorTcp/
-│── client/
-│   └── cliente.js
-│── server/
-│   ├── server.js
-│   └── package.json
-│── Dockerfile
-│── README.md
-```
 
 ## Funcionamiento del Código
 
